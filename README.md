@@ -17,4 +17,4 @@ Este tema es interesante porque es una aplicación de Object Detection, un proce
 
 ## Video de presentacion:
 
-(Link a video en google drive.)
+[Video de presentacion](https://drive.google.com/file/d/1Tp4Rep6mOCrOkXsaohIWpAmT12SaOeIC/view?usp=sharing)
