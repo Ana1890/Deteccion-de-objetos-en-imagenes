@@ -18,3 +18,6 @@ Este tema es interesante porque es una aplicación de Object Detection, un proce
 ## Video de presentacion:
 
 [Video de presentacion](https://drive.google.com/file/d/1Tp4Rep6mOCrOkXsaohIWpAmT12SaOeIC/view?usp=sharing)
+
+## Filminas de presentación:
+[Filminas de presentacion](https://docs.google.com/presentation/d/1wJiSJGt2xBnbafI_UiI-5B0o6UqV6W8S6mKsta5lc4I/edit#slide=id.p)
